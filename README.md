@@ -1,6 +1,7 @@
 ##   My-DSA-Portfolio
 This portfolio showcases my journey through a data analysis class,with Digital Skillup Africa for the period of three to four months. Where i gained foundation knowledge and practical skills in data analysis using Microsoft Excel, SQL Server and Power BI.
 
+
 ###  Introduction.
 ##### This portfolio showcases my journey through a data analysis class, with Digital Skillup Africa for the period of 3 to 4months.
 ##### Where I gained foundational knowledge and practical skills in data analysis using Microsoft Excel, SQL Server (Structured Query Language) and Power Bi.
@@ -23,15 +24,15 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  ✓Critical thinking and problem-solving
 
 
-##   SQL and Data Systems.
+###   SQL and Data Systems.
 
-###  Explored various SQL systems:
-####    - PostgreSQL
-####    - MySQL
-####    - Oracle DB
-####    - SQL Server
-####    - Google BigQuery
-####    - SQLite
+####  Explored various SQL systems:
+#####    - PostgreSQL
+#####    - MySQL
+#####   - Oracle DB
+#####    - SQL Server
+#####    - Google BigQuery
+#####    - SQLite
 ##### I Understood that these systems share the same structured query language (SQL) but differ in their operating systems and specific features.
 
 ###  Data Types.
@@ -63,7 +64,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####        - TCL (Transaction Control Language)
 #####        - DQL (Data Query Language)
 
- ###  SQL Keys.
+###  SQL Keys.
 
 ####  ✓Understood various SQL keys:
 #####    1. Super key: A set of attributes that uniquely identifies a row.
@@ -169,6 +170,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  GitHub provides a platform for showcasing your projects and collaborating with others, while Power BI enables you to create interactive and dynamic reports and dashboards. 
 
 ###  Visuals and Analysis.
+
 ####  1. Data Analysis Dashboard: Create a dashboard using Power BI or Excel to showcase your data analysis skills, including data visualization, filtering, and drill-down capabilities.
 ####  2. SQL Query Diagram: Design a diagram illustrating your understanding of SQL queries, including SELECT, FROM, WHERE, GROUP BY, and JOIN clauses.
 ####  3. GitHub Contribution Graph: Display your GitHub contribution graph, highlighting your activity and collaboration on projects.
@@ -184,9 +186,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  ✓Data Analysis: Showcase data analysis projects and skills
 #####  ✓SQL and Databases: Highlight SQL knowledge and database experience
 
-###  GitHub and Collaboration
-####  Display GitHub activity and collaboration projects.
-
+###  GitHub and Collaboration.
 ####  Exam and Quiz Preparation: Summarize exam and quiz results, highlighting areas for improvement
 
 ####  Projects: Showcase projects, including descriptions and links.
@@ -197,6 +197,11 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  ✓Prioritize your best work and highlight achievements.
 #####  ✓Use storytelling techniques to make your portfolio more engaging.
 #####  ✓Keep your portfolio up-to-date and regularly maintained.
+
+
+###  Conclusion.
+#####  This portfolio highlights my growth and proficiency in data analysis, particularly in using Microsoft Excel. I'm confident in my ability to apply these skills in real-world scenarios and look forward to further developing my expertise.
+
 
 
 
