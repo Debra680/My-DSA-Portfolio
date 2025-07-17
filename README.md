@@ -137,5 +137,68 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 
 #####  ✓Project Management: GitHub provides features like issues, pull requests, and project boards to manage and track project progress.
 
+###  Key GitHub Concepts.
+#####  ✓Repository: A central location for storing and managing project files.
+#####  ✓Creating a Repository: Setting up a new project on GitHub.
+#####  ✓Adding Files to Repository: Uploading and managing files within a repository.
+#####  ✓Collaborating with Others: Working with others on a project, including managing permissions and contributions.
+
+
+###  Power BI
+
+####  What is Power BI?: A business analytics service by Microsoft that enables data visualization, reporting, and business intelligence.
+####  Software Connectors and Services: Power BI connects to various data sources, including databases, spreadsheets, and cloud services.
+####  Power BI Components: Includes tools like Power Query, Power Pivot, and Power View.
+
+###  Power BI Features.
+
+####  ✓Data Sources: Supports various data sources, including Excel, SQL Server, and Azure.
+####  ✓Data Transformation: Power Query enables data transformation, grouping, and merging.
+####  ✓Data Modeling: Creating relationships between tables and data models.
+####  ✓DAX Functions: Used for data analysis and calculation.
+####  ✓Data Visualization: Creating interactive and dynamic reports and dashboards.
+
+###  Power BI Steps to Visualization
+
+####  - Connecting to data sources
+####  - Transforming and modeling data
+####  - Creating visualizations and reports
+####  - Publishing and sharing dashboards
+
+#####  This phase of the training covers the essential tools and skills for data analysis, visualization, and collaboration. 
+#####  GitHub provides a platform for showcasing your projects and collaborating with others, while Power BI enables you to create interactive and dynamic reports and dashboards. 
+
+###  Visuals and Analysis.
+####  1. Data Analysis Dashboard: Create a dashboard using Power BI or Excel to showcase your data analysis skills, including data visualization, filtering, and drill-down capabilities.
+####  2. SQL Query Diagram: Design a diagram illustrating your understanding of SQL queries, including SELECT, FROM, WHERE, GROUP BY, and JOIN clauses.
+####  3. GitHub Contribution Graph: Display your GitHub contribution graph, highlighting your activity and collaboration on projects.
+####  4. Data Modeling Diagram: Develop an entity-relationship diagram (ERD) or data model showcasing your understanding of data structures and relationships.
+####  5. Quiz and Exam Results: Include a summary of your quiz and exam results, highlighting areas of strength and improvement.
+####  6. Project Showcase: Create a showcase of your projects, including descriptions, screenshots, and links to live demos or GitHub repositories.
+
+
+###  Portfolio Organization.
+
+####  Organize your portfolio into sections, such as:
+#####  ✓Introduction: Brief overview of your background and experience.
+#####  ✓Data Analysis: Showcase data analysis projects and skills
+#####  ✓SQL and Databases: Highlight SQL knowledge and database experience
+
+###  GitHub and Collaboration
+####  Display GitHub activity and collaboration projects.
+
+####  Exam and Quiz Preparation: Summarize exam and quiz results, highlighting areas for improvement
+
+####  Projects: Showcase projects, including descriptions and links.
+
+####  Tips for Creating a Compelling Portfolio.
+#####  ✓Use high-quality visuals and consistent branding.
+#####  ✓Tailor your portfolio to your target audience or potential employers.
+#####  ✓Prioritize your best work and highlight achievements.
+#####  ✓Use storytelling techniques to make your portfolio more engaging.
+#####  ✓Keep your portfolio up-to-date and regularly maintained.
+
+
+
 
 
