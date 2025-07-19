@@ -2,9 +2,11 @@
 This portfolio showcases my journey through a data analysis class,with Digital Skillup Africa for the period of three to four months. Where i gained foundation knowledge and practical skills in data analysis using Microsoft Excel, SQL Server and Power BI.
 
 
+
 ###  Introduction.
 ##### This portfolio showcases my journey through a data analysis class, with Digital Skillup Africa for the period of 3 to 4months.
 ##### Where I gained foundational knowledge and practical skills in data analysis using Microsoft Excel, SQL Server (Structured Query Language) and Power Bi.
+
 
 ####  Key Takeaways.
 
@@ -15,6 +17,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####      -  Formula writing (SUM, AVERAGE, COUNT, etc.)
 #####      -  Data visualization (charts, tables, pivot tables)
 ##### 4. Report: I applied my knowledge to create a comprehensive report, demonstrating my ability to collect, analyze, and present data insights.
+
 
 ####  Skills Acquired;
 
@@ -35,12 +38,14 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####    - SQLite
 ##### I Understood that these systems share the same structured query language (SQL) but differ in their operating systems and specific features.
 
+
 ###  Data Types.
 
 ####  ✓There are three types of data:
 #####    1. Structured data: Organized and formatted data (e.g., tables, databases)
 #####    2. Semi-structured data: Data with some level of organization but needs to be cleaned out before analysing.(e.g., XML, JSON)
 #####    3. Unstructured data: Unorganized data (e.g., text, images, videos)
+
 
 ###  Data Roles.
 
@@ -51,6 +56,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####    4. Data Administrator: manages and maintains databases
 #####    5. Business Intelligence Developer: develops data visualization and reporting tools
 #####    6. Analytics Engineer: Builds and maintains data pipelines and architectures
+
 
 ###  SQL Fundamentals.
 
@@ -64,6 +70,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####        - TCL (Transaction Control Language)
 #####        - DQL (Data Query Language)
 
+
 ###  SQL Keys.
 
 ####  ✓Understood various SQL keys:
@@ -75,6 +82,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####    6. Surrogate key: An artificial key used as a primary key.
 #####    7. Foreign key: A field that references the primary key of another table
 
+
 ###  SQL Queries and Functions.
 
 ####  Learned about:
@@ -84,8 +92,10 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####    ✓SQL set operations: UNION, UNION ALL, and INTERSECT
 #####    ✓SQL Views and CASE statement.
 
+
 ###  SQL Queries and Functions
 ##### This section covers the essential SQL queries and functions that enable you to retrieve, manipulate, and analyze data in a database.
+
 
 ###  SQL Query Basics
 
@@ -96,12 +106,14 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  ~HAVING: Filters grouped data based on conditions (e.g., `HAVING SUM(column) > 100`).
 #####  ~ORDER BY: Sorts data in ascending or descending order.
 
+
 ###  SQL Joins.
 
 #####  ~INNER JOIN: Returns records that have matching values in both tables.
 #####  ~LEFT JOIN: Returns all records from the left table and matching records from the right table.
 #####  ~RIGHT JOIN: Similar to LEFT JOIN, but returns all records from the right table.
 #####  ~FULL JOIN: Returns all records from both tables, with NULL values in the columns where there are no matches.
+
 
 ###  SQL Aggregate Functions
 
@@ -111,16 +123,19 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  ~MAX: Returns the maximum value in a column.
 #####  ~MIN: Returns the minimum value in a column.
 
+
 ###  SQL Set Operations.
 
 #####  ~UNION: Combines the results of two or more SELECT statements, removing duplicates.
 #####  ~UNION ALL: Similar to UNION, but includes duplicates.
 #####  ~INTERSECT: Returns the common rows between two or more SELECT statements.
 
+
 ###  SQL Views.
 
 #####  ✓A virtual table based on the result of a SELECT statement.
 #####  ✓Can be used to simplify complex queries or provide an additional layer of security.
+
 
 ###  SQL CASE Statement
 
@@ -128,15 +143,14 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  ✓ Allows you to evaluate an expression and return a specific value based on that evaluation.
 
 
+
 ###  GitHub.
 
 #####  ✓What is GitHub?: A web-based platform for version control and collaboration on software development projects.
-
 #####  ✓Portfolio Showcase: GitHub allows you to showcase your projects and code, demonstrating your skills to potential employers.
-
 #####  ✓Collaboration Platform: GitHub enables multiple developers to collaborate on projects, track changes, and manage versions.
-
 #####  ✓Project Management: GitHub provides features like issues, pull requests, and project boards to manage and track project progress.
+
 
 ###  Key GitHub Concepts.
 #####  ✓Repository: A central location for storing and managing project files.
@@ -151,6 +165,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 ####  Software Connectors and Services: Power BI connects to various data sources, including databases, spreadsheets, and cloud services.
 ####  Power BI Components: Includes tools like Power Query, Power Pivot, and Power View.
 
+
 ###  Power BI Features.
 
 ####  ✓Data Sources: Supports various data sources, including Excel, SQL Server, and Azure.
@@ -158,6 +173,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 ####  ✓Data Modeling: Creating relationships between tables and data models.
 ####  ✓DAX Functions: Used for data analysis and calculation.
 ####  ✓Data Visualization: Creating interactive and dynamic reports and dashboards.
+
 
 ###  Power BI Steps to Visualization
 
@@ -168,6 +184,7 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 
 #####  This phase of the training covers the essential tools and skills for data analysis, visualization, and collaboration. 
 #####  GitHub provides a platform for showcasing your projects and collaborating with others, while Power BI enables you to create interactive and dynamic reports and dashboards. 
+
 
 ###  Visuals and Analysis.
 
@@ -186,10 +203,12 @@ This portfolio showcases my journey through a data analysis class,with Digital S
 #####  ✓Data Analysis: Showcase data analysis projects and skills
 #####  ✓SQL and Databases: Highlight SQL knowledge and database experience
 
+
 ###  GitHub and Collaboration.
 ####  Exam and Quiz Preparation: Summarize exam and quiz results, highlighting areas for improvement
 
 ####  Projects: Showcase projects, including descriptions and links.
+
 
 ####  Tips for Creating a Compelling Portfolio.
 #####  ✓Use high-quality visuals and consistent branding.
